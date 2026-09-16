@@ -1,21 +1,22 @@
-from app.split_integer import split_integer
+def test_should_split_evenly() -> None:
+    ...
 
 
-def test_sum_of_the_parts_should_be_equal_to_value() -> None:
-    pass
+def test_should_split_with_remainder() -> None:
+    ...
 
 
-def test_should_split_into_equal_parts_when_value_divisible_by_parts() -> None:
-    pass
+def test_result_should_be_sorted() -> None:
+    ...
 
 
-def test_should_return_part_equals_to_value_when_split_into_one_part() -> None:
-    pass
+def test_difference_between_min_and_max_should_not_exceed_one() -> None:
+    ...
 
 
-def test_parts_should_be_sorted_when_they_are_not_equal() -> None:
-    pass
+def test_sum_should_equal_original_value() -> None:
+    ...
 
 
-def test_should_add_zeros_when_value_is_less_than_number_of_parts() -> None:
-    pass
+def test_should_return_correct_number_of_parts() -> None:
+    ...
